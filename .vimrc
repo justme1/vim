@@ -2,6 +2,7 @@
 
 "test
 "another test
+"test three
 " this caused segfault {{{
 "let g:rubycomplete_buffer_loading = 1  - this line causes segfault
 "let g:rubycomplete_rails = 1           - this line causes segfault
