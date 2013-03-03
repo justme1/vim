@@ -1,7 +1,7 @@
 " vim:fdm=marker foldlevel=0
 
 "test
-
+"another test
 " this caused segfault {{{
 "let g:rubycomplete_buffer_loading = 1  - this line causes segfault
 "let g:rubycomplete_rails = 1           - this line causes segfault
